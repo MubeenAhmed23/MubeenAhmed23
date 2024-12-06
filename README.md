@@ -27,7 +27,7 @@
 <br clear="both">
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubeenahmed23" alt="mubeenahmed23" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MubeenAhmed23&theme=onedark)](https://github.com/MubeenAhmed23/github-profile-trophy)
 
 
 
