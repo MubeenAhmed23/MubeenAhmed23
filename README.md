@@ -9,7 +9,7 @@
 - 💬 Ask me about: RAG, self-hosted LLMs, structured-data integration, and evaluating LLM outputs for production.
 
 ### 🛠️ Tech I work with
-`Python` · `JavaScript / Node.js` · `FastAPI` · `React` · `LangChain` · `ChromaDB` · `PyTorch` · `TensorFlow` · `Docker` · `Git / CI-CD` · `AWS` · `SQL (PostgreSQL / MySQL)` · `vLLM` · self-hosted LLMs
+`Python` · `JavaScript / Node.js` · `FastAPI` · `RestAPI` · `LangChain` · `ChromaDB` · `PyTorch` · `TensorFlow` · `Docker` · `Git / CI-CD` · `AWS` · `SQL (PostgreSQL / MySQL)` · `vLLM` · self-hosted LLMs
 
 ### 📌 Featured
 - **[RAG](https://github.com/MubeenAhmed23/RAG)** — a retrieval-augmented pipeline: PDF extraction & chunking, embedding generation, ChromaDB vector search, and context-aware querying over a document set.
